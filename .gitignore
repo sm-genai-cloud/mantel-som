@@ -1,0 +1,24 @@
+.env
+
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter and notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+
+# Logs and debug output
+*.log
+
+# IDE/editor config
+.vscode/
+.idea/
+.DS_Store
+
+# System files
+Thumbs.db
+
