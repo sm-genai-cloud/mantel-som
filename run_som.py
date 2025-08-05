@@ -1,11 +1,8 @@
+## Final Run File
 
 import matplotlib.pyplot as plt
 import numpy as np
 import som as sm
-
-# -------------------------
-# Example usage / testing
-# -------------------------
 
 np.random.seed(42)
 

@@ -1,3 +1,4 @@
+## Final Code
 import numpy as np
 
 class SelfOrganizingMap:
@@ -90,3 +91,6 @@ class SelfOrganizingMap:
         Return the trained weight vectors of the SOM grid.
         """
         return self.weights
+
+
+        
